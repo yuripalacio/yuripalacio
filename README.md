@@ -1,4 +1,4 @@
-### Hi there 👋
+![About Me](https://github.com/yuripalacio/yuripalacio/blob/master/bio.jpg)
 
 <!--
 **yuripalacio/yuripalacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
