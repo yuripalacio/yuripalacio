@@ -27,7 +27,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <a href="https://github.com/yuripalacio/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/yuripalacio/yuripalacio.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yuripalacio&repo=yuripalacio.github.io&theme=radical" />
 </a>
