@@ -1,8 +1,5 @@
 ### What's up! I'm [Yuri!](https://www.linkedin.com/in/yuri-palacio/) 👋
 
-<br />
-<br />
-
 Hi, I'm Yuri Palacio, a passionate self-taught web developer from Brazil.
 
 - 🔭 I’m currently working on something cool :wink:
