@@ -3,7 +3,7 @@
 Hi, I'm Yuri Palacio, a passionate self-taught web developer from Brazil.
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning Typescript & React
+- 🌱 I’m currently learning Typescript, React & Python
 - 👯 I'm always looking to improve and improve myself
 
 **Languages and Tools:**
@@ -12,6 +12,7 @@ Hi, I'm Yuri Palacio, a passionate self-taught web developer from Brazil.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"></code>
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/yuripalacio/github-readme-stats)_
 
